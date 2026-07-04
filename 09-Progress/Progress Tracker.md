@@ -16,32 +16,77 @@ A2 → B1 → B2 → C1
 
 Main goal: practical English for QA Automation, technical communication, meetings, interviews, and daily work.
 
+## Project Operating Mode
+
+The course now uses two types of chats.
+
+### Context / Management Chat
+
+Used for:
+
+- course rules;
+- methodology;
+- planning;
+- Progress Tracker updates;
+- Grammar Tracker updates;
+- Vocabulary Tracker updates;
+- Error Knowledge Base;
+- QA / IT topic coverage;
+- long-term course memory.
+
+### Lesson Chats
+
+Used for actual lessons:
+
+- grammar;
+- speaking;
+- writing;
+- listening;
+- reading;
+- homework;
+- live correction.
+
+The repository remains the source of truth. The context chat controls the system. Lesson chats execute the lesson.
+
+## Learning Method
+
+A topic is tracked through four stages:
+
+| Stage | Meaning | Completion signal |
+|---|---|---|
+| Learn | Understand the concept | Can explain the basic idea |
+| Recall | Retrieve later without hints | Can answer after delay |
+| Production | Use in speech/writing | Can use in QA/work examples |
+| Automation | Use without translation | Can speak naturally under pressure |
+
+No topic should be marked as completed after theory only.
+
 ## Grammar Progress
 
-| Topic | Status | Confidence | Notes |
-|---|---:|---:|---|
-| Past Simple | 🟩 | 95% | Good understanding. Needs automatic usage in stories and work reports. |
-| Present Simple | 🟩 | 90% | Generally understood. Use for facts, routines, permanent situations. |
-| Present Continuous | 🟩 | 90% | Understood: now, temporary situations, arrangements. Needs occasional review with state verbs. |
-| Present Simple vs Present Continuous | 🟩 | 90% | Recently reviewed. Important contrast: fact/routine vs current temporary action. |
-| Present Perfect | 🟩 | 85% | Good understanding of result, experience, recent completed actions. |
-| Present Perfect vs Past Simple | 🟩 | 85% | Understood conceptually. Needs faster automatic choice in speaking. |
-| Present Perfect Continuous | 🟨 | 75% | Main active topic. Needs deeper practice with completed time blocks, duration, and activity focus. |
-| Present Perfect vs Present Perfect Continuous | 🟨 | 70% | Next priority. Need to feel result vs activity/duration. |
-| Comparative Adjectives | 🟩 | 80% | Covered. Needs light review only. |
-| Quantifiers | 🟩 | 80% | Covered: much/many/a lot of/few/little etc. Needs periodic review. |
-| First Conditional | 🟩 | 75% | Covered. Needs speaking practice. |
-| Passive Voice | 🟨 | 65% | Basics covered. Needs structured review and QA examples. |
-| Articles | 🟨 | 60% | Frequent errors with a/an/the/no article. Needs focused practice. |
-| Prepositions | 🟨 | 60% | Frequent work phrases: in a meeting, on a call, at work, work on, switch to. |
-| State verbs | 🟥 | 0% | Next grammar support topic before deeper continuous tense work. |
-| Past Continuous | 🟥 | 0% | Not started as a focused topic. |
-| Past Perfect | 🟥 | 0% | Not started as a focused topic. |
-| Future forms | 🟥 | 0% | Not started as a focused topic. |
-| Modal Verbs | 🟥 | 0% | Not started as a focused topic. |
-| Conditionals | 🟥 | 25% | First Conditional covered; other conditionals not started. |
-| Reported Speech | 🟥 | 0% | Not started. |
-| Relative Clauses | 🟥 | 0% | Not started. |
+| Topic | Status | Confidence | Stage | Notes |
+|---|---:|---:|---|---|
+| Past Simple | 🟩 | 95% | Automation | Good understanding. Needs automatic usage in stories and work reports. |
+| Present Simple | 🟩 | 90% | Automation | Generally understood. Use for facts, routines, permanent situations. |
+| Present Continuous | 🟩 | 90% | Consolidating | Understood: now, temporary situations, arrangements. Needs occasional review with state verbs. |
+| Present Simple vs Present Continuous | 🟩 | 90% | Consolidating | Important contrast: fact/routine vs current temporary action. |
+| Present Perfect | 🟩 | 85% | Consolidating | Good understanding of result, experience, recent completed actions. |
+| Present Perfect vs Past Simple | 🟩 | 85% | Consolidating | Understood conceptually. Needs faster automatic choice in speaking. |
+| Present Perfect Continuous | 🟨 | 75–85% | Production | Main active topic. Needs deeper practice with completed time blocks, duration, and activity focus. |
+| Present Perfect vs Present Perfect Continuous | 🟨 | 70% | Learn → Production | Next priority. Need to feel result vs activity/duration. |
+| Comparative Adjectives | 🟩 | 80% | Recall | Covered. Needs light review only. |
+| Quantifiers | 🟩 | 80% | Recall | Covered: much/many/a lot of/few/little etc. Needs periodic review. |
+| First Conditional | 🟩 | 75% | Recall | Covered. Needs speaking practice. |
+| Passive Voice | 🟨 | 65% | Learn | Basics covered. Needs structured review and QA examples. |
+| Articles | 🟨 | 60% | Learn | Frequent errors with a/an/the/no article. Needs focused practice. |
+| Prepositions | 🟨 | 60% | Learn | Frequent work phrases: in a meeting, on a call, at work, work on, switch to. |
+| State verbs | 🟥 | 0% | Not Started | Next grammar support topic before deeper continuous tense work. |
+| Past Continuous | 🟥 | 0% | Not Started | Not started as a focused topic. |
+| Past Perfect | 🟥 | 0% | Not Started | Not started as a focused topic. |
+| Future forms | 🟥 | 0% | Not Started | Not started as a focused topic. |
+| Modal Verbs | 🟥 | 0% | Not Started | Not started as a focused topic. |
+| Conditionals | 🟥 | 25% | Learn | First Conditional covered; other conditionals not started. |
+| Reported Speech | 🟥 | 0% | Not Started | Not started. |
+| Relative Clauses | 🟥 | 0% | Not Started | Not started. |
 
 Legend:
 
@@ -60,6 +105,8 @@ Current learning focus:
 3. Add State verbs because they affect Continuous usage.
 4. Keep Daily Stand-up speaking practice in every lesson.
 5. Continue QA vocabulary and phrase building.
+6. Start tracking repeated mistakes in a more explicit Error Knowledge Base format.
+7. Increase active recall and spaced review instead of repeating theory passively.
 
 ## Next Lessons
 
@@ -80,6 +127,7 @@ Current learning focus:
 | Interview phrases | 🟥 | Needs structured preparation. |
 | Technical API vocabulary | 🟨 | Used in work context, needs English phrasing practice. |
 | Grammar vocabulary | 🟨 | Need stable terms: result, duration, completed action, state verb. |
+| Natural collocations | 🟨 | Priority: learn phrases, not isolated words. |
 
 ## Known Weak Points
 
@@ -117,6 +165,38 @@ Important recurring principles:
 - Present Perfect Continuous emphasizes activity or duration; it does not always mean the action is unfinished.
 - Choose tense based on what the listener needs to know.
 
+## Error Knowledge Base Rules
+
+Repeated mistakes should be logged with:
+
+- wrong phrase;
+- corrected phrase;
+- reason;
+- category;
+- date;
+- status: active / reviewing / resolved.
+
+A mistake is resolved only after it disappears from several lessons and the learner can use the correct form under pressure.
+
+## QA / IT Topics To Cover
+
+High-priority professional topics:
+
+- Daily stand-up
+- Bug discussion
+- Sprint planning / review
+- Root cause analysis
+- Production incident
+- Release and deployment
+- Logs analysis
+- API testing
+- Automation framework explanation
+- CI/CD
+- Performance testing
+- Jira comments
+- Technical interview answers
+- Demo speech
+
 ## Lesson Format To Continue After Chat Cleanup
 
 Each lesson should follow this structure:
@@ -131,8 +211,14 @@ Each lesson should follow this structure:
 
 ## Recovery Prompt After Chat Cleanup
 
-Use this prompt in a new chat:
+Use this prompt in a new lesson chat:
 
 ```text
 Продолжим обучение по English Learning Vault. Проверь Progress Tracker и начни следующий урок с текущего места.
+```
+
+Use this prompt in the context/management chat:
+
+```text
+Обновим English Learning Vault. Проверь Course Rules, Progress Tracker, текущий план и предложи корректировки курса.
 ```
