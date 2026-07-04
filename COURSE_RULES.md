@@ -22,6 +22,7 @@ A2 → B1 → B2 → C1
 6. Every lesson should include practice, not only theory.
 7. Reading and listening should reinforce the current grammar and vocabulary.
 8. The repository is the main source of truth. The chat is used for practice and explanations.
+9. Course context, grammar, vocabulary, lesson notes, and progress must be synchronized with this repository regularly.
 
 ## Lesson Structure
 
@@ -55,6 +56,27 @@ After a lesson, update relevant files:
 - Lesson notes
 - Progress Tracker
 - Homework / Reading / Listening if needed
+
+## Vault Synchronization Protocol
+
+The GitHub repository `english-learning-vault` is the long-term storage for the course.
+
+The chat is temporary. The repository is permanent.
+
+At the end of each lesson or after any important correction, update the Vault when there is new reusable material.
+
+Priority update order:
+
+1. `09-Progress/Progress Tracker.md` — current topic, status, next steps, weak points.
+2. `02-Dictionary/` — new words, phrases, examples, QA vocabulary.
+3. `01-Grammar/` — new rules, tense comparisons, usage notes, common mistakes.
+4. `03-Mistakes/Mistake Journal.md` — repeated or important mistakes.
+5. `05-Lessons/` — lesson summary and what was practiced.
+6. `06-Homework/`, `07-Reading/`, `08-Listening/` — only when new tasks/materials are assigned.
+
+Do not duplicate the same rule in many places. Use links between files instead.
+
+Do not mark a topic as completed only because the rule was explained. Mark it as completed only when the learner can use it in realistic work examples.
 
 ## Current Learning Strategy
 
