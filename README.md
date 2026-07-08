@@ -27,6 +27,9 @@ Personal English learning system focused on QA Automation, technical communicati
 | Reading | [[07-Reading/Reading Index]] |
 | Listening | [[08-Listening/Listening Index]] |
 | Progress tracker | [[09-Progress/Progress Tracker]] |
+| CEFR checklist | [[09-Progress/CEFR Checklist]] |
+| Operating agent (Claude Code) | [[CLAUDE.md]] |
+| New-layer setup | [[SETUP.md]] |
 
 ## Current Goal
 
@@ -49,8 +52,10 @@ Primary focus:
 git pull
 ```
 
-2. Use ChatGPT for the lesson and speaking/writing practice.
-3. After the lesson, ChatGPT updates this repository.
+2. Use ChatGPT for the lesson and speaking/writing practice, or Claude Code (see
+   `CLAUDE.md`, `SETUP.md`) as an alternative that reads/writes this repository
+   directly.
+3. After the lesson, the AI updates this repository.
 4. Pull again to see updated grammar notes, vocabulary, mistakes, reading, listening, and homework.
 
 ## Main Rule
