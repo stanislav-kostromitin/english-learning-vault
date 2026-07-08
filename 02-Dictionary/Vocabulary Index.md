@@ -6,7 +6,7 @@ This file is the entry point for all vocabulary notes in the Vault.
 
 - [[feature]]
 - [[issue]]
-- [[bug]]
+- [[bug1]]
 - [[investigate]]
 - [[production]]
 - [[deployment]]
