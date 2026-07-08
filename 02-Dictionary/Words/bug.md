@@ -1,3 +1,9 @@
+---
+type: vocab
+status: learning
+tags:
+  - flashcards/vocabulary
+---
 # bug
 
 Status: 🟨 Learning

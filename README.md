@@ -27,9 +27,11 @@ Personal English learning system focused on QA Automation, technical communicati
 | Reading | [[07-Reading/Reading Index]] |
 | Listening | [[08-Listening/Listening Index]] |
 | Progress tracker | [[09-Progress/Progress Tracker]] |
+| Dashboard (Dataview) | [[09-Progress/Dashboard]] |
 | CEFR checklist | [[09-Progress/CEFR Checklist]] |
 | Operating agent (Claude Code) | [[CLAUDE.md]] |
-| New-layer setup | [[SETUP.md]] |
+| Setup / plugins | [[SETUP.md]] |
+| Future skills outline | [[Skills-Outline.md]] |
 
 ## Current Goal
 
@@ -52,11 +54,11 @@ Primary focus:
 git pull
 ```
 
-2. Use ChatGPT for the lesson and speaking/writing practice, or Claude Code (see
-   `CLAUDE.md`, `SETUP.md`) as an alternative that reads/writes this repository
-   directly.
+2. Use ChatGPT for the lesson and speaking/writing practice, or the **Agent Client**
+   plugin (Claude Code inside Obsidian - see `CLAUDE.md`, `SETUP.md`) for an
+   alternative that reads/writes this repository directly, no copy-pasting needed.
 3. After the lesson, the AI updates this repository.
-4. Pull again to see updated grammar notes, vocabulary, mistakes, reading, listening, and homework.
+4. Pull again (or let Obsidian Git sync) to see updated grammar notes, vocabulary, mistakes, reading, listening, and homework.
 
 ## Main Rule
 
