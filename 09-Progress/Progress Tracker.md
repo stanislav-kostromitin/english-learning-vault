@@ -56,6 +56,7 @@ A topic is tracked through four stages:
 |---|---|---|
 | Learn | Understand the concept | Can explain the basic idea |
 | Recall | Retrieve later without hints | Can answer after delay |
+| Consolidating | Between Recall and Production — recall is stable, but real-time use is still slow/hesitant | Can answer quickly without hints, but still pauses in live speech |
 | Production | Use in speech/writing | Can use in QA/work examples |
 | Automation | Use without translation | Can speak naturally under pressure |
 
@@ -66,11 +67,11 @@ No topic should be marked as completed after theory only.
 | Topic | Status | Confidence | Stage | Notes |
 |---|---:|---:|---|---|
 | Past Simple | 🟩 | 95% | Automation | Good understanding. Needs automatic usage in stories and work reports. |
-| Present Simple | 🟩 | 90% | Automation | Generally understood. Use for facts, routines, permanent situations. |
+| Present Simple | 🟨 | 90%* | Learn | Reverted from Automation during 2026-07-09 audit — no demonstrated pressure-tested use was on record, per CLAUDE.md §4 policy. Confidence % needs reassessment against the Learn stage. |
 | Present Continuous | 🟩 | 90% | Consolidating | Understood: now, temporary situations, arrangements. Needs occasional review with state verbs. |
-| Present Simple vs Present Continuous | 🟩 | 90% | Consolidating | Important contrast: fact/routine vs current temporary action. |
+| Present Simple vs Present Continuous | 🟩 | 90% | Production | Important contrast: fact/routine vs current temporary action. |
 | Present Perfect | 🟩 | 85% | Consolidating | Good understanding of result, experience, recent completed actions. |
-| Present Perfect vs Past Simple | 🟩 | 85% | Consolidating | Understood conceptually. Needs faster automatic choice in speaking. |
+| Present Perfect vs Past Simple | 🟩 | 85% | Production | Understood conceptually. Needs faster automatic choice in speaking. |
 | Present Perfect Continuous | 🟨 | 75–85% | Production | Main active topic. Needs deeper practice with completed time blocks, duration, and activity focus. |
 | Present Perfect vs Present Perfect Continuous | 🟨 | 70% | Learn → Production | Next priority. Need to feel result vs activity/duration. |
 | Comparative Adjectives | 🟩 | 80% | Recall | Covered. Needs light review only. |
@@ -79,7 +80,7 @@ No topic should be marked as completed after theory only.
 | Passive Voice | 🟨 | 65% | Learn | Basics covered. Needs structured review and QA examples. |
 | Articles | 🟨 | 60% | Learn | Frequent errors with a/an/the/no article. Needs focused practice. |
 | Prepositions | 🟨 | 60% | Learn | Frequent work phrases: in a meeting, on a call, at work, work on, switch to. |
-| State verbs | 🟥 | 0% | Not Started | Next grammar support topic before deeper continuous tense work. |
+| State verbs | 🟨 | 0%* | Learn | Note frontmatter set to learn/active during 2026-07-09 audit sync — confidence % not yet assessed, treat as just-started, still the next grammar support topic before deeper continuous tense work. |
 | Past Continuous | 🟥 | 0% | Not Started | Not started as a focused topic. |
 | Past Perfect | 🟥 | 0% | Not Started | Not started as a focused topic. |
 | Future forms | 🟥 | 0% | Not Started | Not started as a focused topic. |

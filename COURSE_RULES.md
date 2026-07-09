@@ -64,7 +64,7 @@ The context chat is the control center. Lesson chats are execution spaces.
 
 ## Learning Model
 
-Each topic passes through four stages.
+Each topic passes through five stages.
 
 ### Stage 1 — Learn
 
@@ -77,6 +77,12 @@ Example: do not memorize only the formula of Present Perfect Continuous. Underst
 Return to the topic later without hints.
 
 This uses active recall and spaced review. If the learner cannot retrieve the structure without help, the topic is not stable yet.
+
+### Stage 2.5 — Consolidating
+
+Recall is stable, but real-time use in speech is still slow or hesitant.
+
+This stage sits between Recall and Production — the learner no longer needs hints to retrieve the structure, but still pauses or self-corrects when producing it live. Recorded here because it was already in use across grammar notes and the Progress Tracker before being part of the documented model.
 
 ### Stage 3 — Production
 

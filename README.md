@@ -29,11 +29,11 @@ Personal English learning system focused on QA Automation, technical communicati
 | Progress tracker | [[09-Progress/Progress Tracker]] |
 | Dashboard (Dataview) | [[09-Progress/Dashboard]] |
 | CEFR checklist | [[09-Progress/CEFR Checklist]] |
-| Operating agent (Claude Code) | [[CLAUDE.md]] |
-| Setup / plugins | [[SETUP.md]] |
-| Future skills outline | [[Skills-Outline.md]] |
+| Operating agent (Claude Code) | [[CLAUDE]] |
+| Setup / plugins | [[SETUP]] |
+| Future skills outline | [[Skills-Outline]] |
 | Real agent skills | `.claude/skills/` (session-focus-guard, content-preparation, vault-maintainer) |
-| Architecture review vs 10 reference projects | [[ARCHITECTURE-REVIEW.md]] |
+| Architecture review vs 10 reference projects | [[ARCHITECTURE-REVIEW]] |
 
 ## Current Goal
 

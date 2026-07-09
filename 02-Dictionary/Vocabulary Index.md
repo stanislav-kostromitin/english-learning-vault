@@ -13,6 +13,8 @@ This file is the entry point for all vocabulary notes in the Vault.
 - [[automation]]
 - [[report]]
 - [[whether]]
+- [[cause]]
+- [[reproduce]]
 
 ## Priority QA / Work Vocabulary To Review
 
@@ -47,10 +49,11 @@ These words and phrases must be reused in speaking and writing lessons:
 | cause | причина | We found the cause of the problem. | 🟥 |
 | another | ещё один, другой | I'm fixing another bug. | 🟨 |
 
-> `bug`, `report`, `whether` already have their own notes in `02-Dictionary/Words/`.
-> `meeting`, `cause`, `another` were merged in from the old `QA English Dictionary.md`
-> table during an audit - no dedicated note yet, statuses carried over as-is, worth a
-> quick re-check next lesson rather than treated as final.
+> `bug`, `report`, `whether`, `cause`, `reproduce` already have their own notes in
+> `02-Dictionary/Words/`.
+> `meeting`, `another` were merged in from the old `QA English Dictionary.md` table
+> during an audit - no dedicated note yet, statuses carried over as-is, worth a quick
+> re-check next lesson rather than treated as final.
 
 ## Vocabulary Status
 

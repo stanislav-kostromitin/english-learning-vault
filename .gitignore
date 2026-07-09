@@ -3,6 +3,7 @@
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
 .obsidian/plugins/*/data.json
+.claude/settings.local.json
 .idea/
 .trash/
 .DS_Store

@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/check-duplicate-note.py\"",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"& { & (Join-Path $env:CLAUDE_PROJECT_DIR '.claude/hooks/check-duplicate-note.ps1'); exit $LASTEXITCODE }\"",
             "timeout": 10
           }
         ]

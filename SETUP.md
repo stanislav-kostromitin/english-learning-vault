@@ -31,7 +31,7 @@
 ## Шаг 2. Проверить Dashboard
 
 Открой `09-Progress/Dashboard.md`. Таблица "Словарь по статусу" должна показать
-существующие 4 слова (bug, feature, investigate, issue) со статусом `learning` - это
+словарные заметки из `02-Dictionary/Words/` со статусами из frontmatter - это
 подтверждает, что Dataview видит frontmatter. Если видишь текст ошибки вида
 "Dataview: ..." - плагин Dataview выключен, включить в Settings → Community plugins.
 

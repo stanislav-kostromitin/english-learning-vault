@@ -2,6 +2,11 @@
 
 This file stores recurring mistakes and corrections.
 
+> Entries below predate the `COURSE_RULES.md` "Error Knowledge Base" requirement
+> (category / date noticed / status per entry) — original dates are not on record,
+> so none are invented here. New entries added from now on should include date and
+> status (`active` / `reviewing` / `resolved`).
+
 ## Grammar Mistakes
 
 ### 1. Using Present Perfect Continuous for a completed time block

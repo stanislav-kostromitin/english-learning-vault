@@ -19,7 +19,7 @@ issues, propose a dry-run diff, get confirmation, only then write.
 
 ## Checks to run
 
-1. **Broken wikilinks.** Every `[[note name]]` should resolve to an actual file.
+1. **Broken wikilinks.** Every wikilink should resolve to an actual file.
    Exception: intentional forward-references already documented as a known gap
    (see the notes at the top of `01-Grammar/Grammar Index.md` and
    `05-Lessons/Lessons Index.md`) - don't re-flag those unless the gap list itself
@@ -30,7 +30,7 @@ issues, propose a dry-run diff, get confirmation, only then write.
    both `02-Dictionary/Words/` and a table in `02-Dictionary/QA English
    Dictionary.md`). As of this pass, exact near-duplicate filenames in
    `01-Grammar/`/`02-Dictionary/Words/` are also blocked in real time by
-   `.claude/hooks/check-duplicate-note.py` (PreToolUse hook) - this check here is
+   `.claude/hooks/check-duplicate-note.ps1` (PreToolUse hook) - this check here is
    the periodic sweep for anything the hook didn't cover (cross-folder duplicates,
    duplicates predating the hook, or the same concept under genuinely different
    names). If found: **never delete either file outright.** Check both for
