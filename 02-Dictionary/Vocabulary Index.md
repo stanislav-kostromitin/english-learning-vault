@@ -42,7 +42,7 @@ These words and phrases must be reused in speaking and writing lessons:
 | staging | staging environment | The issue happens only on staging. | 🟨 |
 | bug | баг | I fixed the bug yesterday. | 🟨 |
 | report | отчёт | I'm working on a report. | 🟨 |
-| whether | ли | I don't know whether the bug is fixed. | 🟥 |
+| whether | ли | I don't know whether the bug is fixed. | 🟨 |
 | meeting | митинг, встреча | I'm in a meeting. | 🟨 |
 | cause | причина | We found the cause of the problem. | 🟥 |
 | another | ещё один, другой | I'm fixing another bug. | 🟨 |

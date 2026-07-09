@@ -28,7 +28,12 @@ issues, propose a dry-run diff, get confirmation, only then write.
 2. **Duplicate notes for the same concept.** Same word or grammar topic tracked in
    more than one file (e.g. `word.md` and `word1.md`, or the same word appearing in
    both `02-Dictionary/Words/` and a table in `02-Dictionary/QA English
-   Dictionary.md`). If found: **never delete either file outright.** Check both for
+   Dictionary.md`). As of this pass, exact near-duplicate filenames in
+   `01-Grammar/`/`02-Dictionary/Words/` are also blocked in real time by
+   `.claude/hooks/check-duplicate-note.py` (PreToolUse hook) - this check here is
+   the periodic sweep for anything the hook didn't cover (cross-folder duplicates,
+   duplicates predating the hook, or the same concept under genuinely different
+   names). If found: **never delete either file outright.** Check both for
    spaced-repetition scheduling comments (`<!--SR:...-->`) - if either has real
    review history, that history must be preserved in the merged result. Merge into
    the more recently-updated / more complete file (check `git log --follow`), keep

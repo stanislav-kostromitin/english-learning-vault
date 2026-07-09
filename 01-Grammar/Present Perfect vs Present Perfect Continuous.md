@@ -1,6 +1,7 @@
 ---
 type: grammar
 stage: production
+status: active
 tags:
   - flashcards/grammar
 ---
