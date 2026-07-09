@@ -16,51 +16,13 @@ A2 → B1 → B2 → C1
 
 Main goal: practical English for QA Automation, technical communication, meetings, interviews, and daily work.
 
-## Project Operating Mode
+## Operating Mode
 
-The course now uses two types of chats.
-
-### Context / Management Chat
-
-Used for:
-
-- course rules;
-- methodology;
-- planning;
-- Progress Tracker updates;
-- Grammar Tracker updates;
-- Vocabulary Tracker updates;
-- Error Knowledge Base;
-- QA / IT topic coverage;
-- long-term course memory.
-
-### Lesson Chats
-
-Used for actual lessons:
-
-- grammar;
-- speaking;
-- writing;
-- listening;
-- reading;
-- homework;
-- live correction.
-
-The repository remains the source of truth. The context chat controls the system. Lesson chats execute the lesson.
+Two chat types: context/management chat (rules, methodology, planning, tracker updates, long-term memory) and lesson chats (grammar, speaking, writing, listening, reading, homework, live correction). Full definitions: see `COURSE_RULES.md`, "Chat Separation Rule". The repository remains the source of truth; the context chat controls the system; lesson chats execute it.
 
 ## Learning Method
 
-A topic is tracked through four stages:
-
-| Stage | Meaning | Completion signal |
-|---|---|---|
-| Learn | Understand the concept | Can explain the basic idea |
-| Recall | Retrieve later without hints | Can answer after delay |
-| Consolidating | Between Recall and Production — recall is stable, but real-time use is still slow/hesitant | Can answer quickly without hints, but still pauses in live speech |
-| Production | Use in speech/writing | Can use in QA/work examples |
-| Automation | Use without translation | Can speak naturally under pressure |
-
-No topic should be marked as completed after theory only.
+Five stages, in order: Learn → Recall → Consolidating → Production → Automation. Full definitions and completion signals: see `COURSE_RULES.md`, "Learning Model". No topic should be marked as completed after theory only — the Stage column below tracks each topic's real progress through these stages.
 
 ## Grammar Progress
 
@@ -198,17 +160,9 @@ High-priority professional topics:
 - Technical interview answers
 - Demo speech
 
-## Lesson Format To Continue After Chat Cleanup
+## Lesson Format
 
-Each lesson should follow this structure:
-
-1. Short review of weak points.
-2. One grammar/vocabulary focus only.
-3. QA/work examples.
-4. Speaking or writing practice.
-5. Error correction with explanation.
-6. Update Vault if new reusable material appears.
-7. Mini homework, reading, or listening task.
+Standard structure defined in `COURSE_RULES.md`, "Lesson Structure" (review → focus → examples → practice → correction → vault update → homework) — follow it unless Current Focus above says otherwise.
 
 ## Recovery Prompt After Chat Cleanup
 

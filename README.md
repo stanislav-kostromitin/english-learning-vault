@@ -33,7 +33,7 @@ Personal English learning system focused on QA Automation, technical communicati
 | Setup / plugins | [[SETUP]] |
 | Future skills outline | [[Skills-Outline]] |
 | Real agent skills | `.claude/skills/` (session-focus-guard, content-preparation, vault-maintainer) |
-| Architecture review vs 10 reference projects | [[ARCHITECTURE-REVIEW]] |
+| Architecture review vs 10 reference projects (historical, archived) | [[00-Meta/ARCHITECTURE-REVIEW]] |
 
 ## Current Goal
 
@@ -69,6 +69,7 @@ Do not learn grammar as isolated formulas. Learn how native speakers choose tens
 ## Repository Structure
 
 ```text
+00-Meta/         (historical audit docs, not part of active workflow)
 01-Grammar/
 02-Dictionary/
 03-Mistakes/
