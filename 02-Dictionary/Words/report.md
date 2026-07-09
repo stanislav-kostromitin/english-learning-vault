@@ -21,7 +21,7 @@ A written or spoken update about progress, findings, or status.
 
 ## Related
 - [[issue]]
-- [[bug1]]
+- [[bug]]
 - [[automation]]
 
 ---

@@ -8,25 +8,13 @@ A living vocabulary list for QA Automation and work communication.
 - 🟨 Learning
 - 🟩 Mastered
 
-## Vocabulary
+## Single Words
 
-| Word | Translation | Example | Status |
-|---|---|---|---|
-| feature | фича, функциональность | I'm working on a new feature. | 🟨 |
-| issue | проблема | I'm investigating an issue. | 🟨 |
-| bug | баг | I fixed the bug yesterday. | 🟨 |
-| production | продакшн | We found a production issue. | 🟨 |
-| deployment | деплой, развертывание | The deployment was successful. | 🟥 |
-| investigate | расследовать, изучать проблему | I'm investigating this issue. | 🟨 |
-| reproduce | воспроизвести | I can reproduce the bug. | 🟥 |
-| workaround | временное решение | We need a workaround. | 🟥 |
-| pending | ожидающий, незавершенный | The task is still pending. | 🟥 |
-| whether | ли | I don't know whether the bug is fixed. | 🟥 |
-| another | еще один, другой | I'm fixing another bug. | 🟨 |
-| report | отчет | I'm working on a report. | 🟨 |
-| meeting | митинг, встреча | I'm in a meeting. | 🟨 |
-| cause | причина | We found the cause of the problem. | 🟥 |
-| automation | автоматизация | I write automation tests. | 🟨 |
+Single-word status tracking lives in [[02-Dictionary/Vocabulary Index|Vocabulary Index]]
+and in individual notes under `02-Dictionary/Words/`, not here - this avoided having two
+disagreeing trackers for the same word (found during audit: this file had `deployment`
+marked 🟥 New while Vocabulary Index had it 🟨 Learning after a later sync). This file
+now focuses on QA-specific phrases and prepositions, which are not tracked elsewhere.
 
 ## Useful QA Phrases
 

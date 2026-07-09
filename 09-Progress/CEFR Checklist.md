@@ -10,7 +10,10 @@ updated: ""
 Источник: официальная self-assessment grid Совета Европы (CEFR), адаптирована в
 чек-лист. Формулировки ниже - пересказ своими словами, не дословная цитата
 оригинального документа. Точные официальные формулировки - на
-coe.int/en/web/common-european-framework-reference-languages.
+coe.int/en/web/common-european-framework-reference-languages, более детальный набор
+дескрипторов - в CEFR Companion Volume (2020) там же. Периодическая внешняя сверка
+результата - efset.org (бесплатно, выровнен по CEFR) - см. `COURSE_RULES.md`,
+"External Calibration".
 
 Дополняет, а не заменяет таблицу `% confidence` в `Progress Tracker.md` - там
 отслеживаются отдельные грамматические темы, здесь - владение языком в целом по

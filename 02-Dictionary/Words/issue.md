@@ -24,7 +24,7 @@ A problem or topic that needs attention.
 
 ## Related
 
-- [[bug1]]
+- [[bug]]
 - [[production]]
 - [[investigate]]
 

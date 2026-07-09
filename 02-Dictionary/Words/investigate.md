@@ -25,7 +25,7 @@ To examine a problem carefully to understand the cause.
 ## Related
 
 - [[issue]]
-- [[bug1]]
+- [[bug]]
 - [[cause]]
 
 ---

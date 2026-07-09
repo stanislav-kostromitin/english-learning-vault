@@ -97,6 +97,23 @@ Use the topic naturally without translating from Russian/Ukrainian first.
 
 Only at this stage can the topic be considered truly learned.
 
+## External Calibration (added during audit)
+
+The four stages above and the % confidence in Progress Tracker are self/agent-rated
+- useful for day-to-day tracking, but not an outside check. Two official, free
+external references, added here as pointers (not copied into the vault - both are
+large official resources, better linked than reproduced):
+
+- **EF SET** (efset.org) - free, CEFR-aligned test (reading/listening, or full
+  4-skill version). Use every few months as a calibration checkpoint - if the
+  result disagrees noticeably with the internal CEFR Checklist status, that is a
+  signal to re-examine the internal estimate, not to distrust the test by default.
+- **CEFR Companion Volume** (Council of Europe, 2020) - the full official
+  descriptor set, more detailed than the self-assessment grid already used in
+  `09-Progress/CEFR Checklist.md`. Consult it directly if a specific can-do
+  statement needs more precision than the grid gives - do not paraphrase large
+  portions of it into the vault, link to the source instead.
+
 ## Lesson Structure
 
 Each lesson should usually include:

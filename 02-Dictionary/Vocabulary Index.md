@@ -6,7 +6,7 @@ This file is the entry point for all vocabulary notes in the Vault.
 
 - [[feature]]
 - [[issue]]
-- [[bug1]]
+- [[bug]]
 - [[investigate]]
 - [[production]]
 - [[deployment]]
@@ -40,6 +40,17 @@ These words and phrases must be reused in speaking and writing lessons:
 | root cause | первопричина | We found the root cause of the problem. | 🟥 |
 | intermittent | нестабильный / непостоянный | The issue is intermittent. | 🟥 |
 | staging | staging environment | The issue happens only on staging. | 🟨 |
+| bug | баг | I fixed the bug yesterday. | 🟨 |
+| report | отчёт | I'm working on a report. | 🟨 |
+| whether | ли | I don't know whether the bug is fixed. | 🟥 |
+| meeting | митинг, встреча | I'm in a meeting. | 🟨 |
+| cause | причина | We found the cause of the problem. | 🟥 |
+| another | ещё один, другой | I'm fixing another bug. | 🟨 |
+
+> `bug`, `report`, `whether` already have their own notes in `02-Dictionary/Words/`.
+> `meeting`, `cause`, `another` were merged in from the old `QA English Dictionary.md`
+> table during an audit - no dedicated note yet, statuses carried over as-is, worth a
+> quick re-check next lesson rather than treated as final.
 
 ## Vocabulary Status
 

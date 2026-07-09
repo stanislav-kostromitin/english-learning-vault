@@ -21,7 +21,7 @@ The use of tools or scripts to perform tasks automatically.
 
 ## Related
 - [[feature]]
-- [[bug1]]
+- [[bug]]
 - [[deployment]]
 
 ---

@@ -2,6 +2,9 @@
 
 This file tracks the lesson route and recovery point.
 
+> **Известный пробел:** заметок для Lesson 01-04 нет (только 05 и 06), хотя темы этих
+> уроков отмечены пройденными в Progress Tracker. Не восстанавливаю задним числом.
+
 ## Current Lessons / Covered Blocks
 
 - [[Lesson 01 - Course Setup and A2 Baseline]]

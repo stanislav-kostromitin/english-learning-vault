@@ -32,6 +32,8 @@ Personal English learning system focused on QA Automation, technical communicati
 | Operating agent (Claude Code) | [[CLAUDE.md]] |
 | Setup / plugins | [[SETUP.md]] |
 | Future skills outline | [[Skills-Outline.md]] |
+| Real agent skills | `.claude/skills/` (session-focus-guard, content-preparation, vault-maintainer) |
+| Architecture review vs 10 reference projects | [[ARCHITECTURE-REVIEW.md]] |
 
 ## Current Goal
 

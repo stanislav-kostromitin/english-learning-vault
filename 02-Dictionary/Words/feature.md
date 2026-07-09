@@ -32,7 +32,7 @@ Do not confuse:
 
 ## Related
 
-- [[bug1]]
+- [[bug]]
 - [[issue]]
 - [[deployment]]
 

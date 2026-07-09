@@ -1,7 +1,6 @@
 ---
 type: grammar
 stage: learn
-status: planned
 tags:
   - flashcards/grammar
 ---

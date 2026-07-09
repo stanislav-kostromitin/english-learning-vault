@@ -110,12 +110,12 @@ Current learning focus:
 
 ## Next Lessons
 
-1. Lesson 06 — Present Perfect Continuous final consolidation.
-2. Lesson 07 — Present Perfect vs Present Perfect Continuous.
-3. Lesson 08 — State verbs: know, understand, believe, like, see, think, have.
-4. Lesson 09 — Articles for QA communication.
-5. Lesson 10 — Daily stand-up simulation with correction.
-6. Lesson 11 — Passive Voice for bugs, APIs, deployments, and reports.
+1. Lesson 07 — Present Perfect Continuous final consolidation.
+2. Lesson 08 — Present Perfect vs Present Perfect Continuous.
+3. Lesson 09 — State verbs: know, understand, believe, like, see, think, have.
+4. Lesson 10 — Articles for QA communication.
+5. Lesson 11 — Daily stand-up simulation with correction.
+6. Lesson 12 — Passive Voice for bugs, APIs, deployments, and reports.
 
 ## Vocabulary Progress
 

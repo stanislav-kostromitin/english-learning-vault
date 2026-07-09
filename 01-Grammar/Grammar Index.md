@@ -2,6 +2,13 @@
 
 This file is the entry point for all grammar notes in the Vault.
 
+> **Известный пробел (аудит):** 10 тем всё ещё без заметок, хотя часть из них
+> Progress Tracker отмечает как покрытые на 75-80%: Comparative Adjectives,
+> Quantifiers, First Conditional, Past Continuous, Past Perfect, Future forms, Modal
+> verbs, Conditionals, Reported Speech, Relative clauses. Не восстанавливаю задним
+> числом - создавать по мере реальной необходимости через
+> `10-Templates/Grammar Note Template.md`.
+
 ## Current / Learned Topics
 
 - [[Past Simple]]

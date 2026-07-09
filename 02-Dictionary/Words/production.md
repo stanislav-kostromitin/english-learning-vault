@@ -22,7 +22,7 @@ The live environment where the software is used by real users.
 ## Related
 - [[issue]]
 - [[deployment]]
-- [[bug1]]
+- [[bug]]
 
 ---
 
