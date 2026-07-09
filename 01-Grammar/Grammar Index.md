@@ -1,6 +1,22 @@
 # Grammar Index
 
-This file is the entry point for all grammar notes in the Vault.
+This file is the entry point for grammar notes in the Vault.
+
+## How To Create Grammar Notes
+
+- [[Grammar Note Guidelines]]
+- [[10-Templates/Grammar Note Template|Grammar Note Template]]
+
+## Active Focus
+
+Follow `09-Progress/Progress Tracker.md` first.
+
+1. [[Present Perfect Continuous]]
+2. [[Present Perfect vs Present Perfect Continuous]]
+3. [[State verbs]]
+4. [[Articles]]
+5. [[Prepositions for QA Communication]]
+6. [[Passive Voice]]
 
 > **Известный пробел (аудит):** 10 тем всё ещё без заметок, хотя часть из них
 > Progress Tracker отмечает как покрытые на 75-80%: Comparative Adjectives,
@@ -24,20 +40,13 @@ This file is the entry point for all grammar notes in the Vault.
 - [[First Conditional]]
 - [[Passive Voice]]
 - [[Articles]]
-
-## Active Review Topics
-
-These topics were covered or started, but they are not automatic yet:
-
-- [[Present Perfect Continuous]]
-- [[Present Perfect vs Present Perfect Continuous]]
-- [[Articles]]
 - [[Prepositions for QA Communication]]
-- [[Passive Voice]]
+- [[State verbs]]
 
 ## Coming Topics
 
-- [[State verbs]]
+Create full notes only when these topics enter active rotation:
+
 - [[Past Continuous]]
 - [[Past Perfect]]
 - [[Future forms]]
@@ -54,11 +63,11 @@ Do not choose a tense based on Jira status.
 
 Choose a tense based on the message:
 
-- finished time block → usually Past Simple;
-- result / completed action relevant now → Present Perfect;
-- activity / duration / visible result of process → Present Perfect Continuous;
-- current temporary action → Present Continuous;
-- fact, routine, permanent situation → Present Simple.
+- finished time block -> usually [[Past Simple]];
+- result / completed action relevant now -> [[Present Perfect]];
+- activity / duration / visible result of process -> [[Present Perfect Continuous]];
+- current temporary action -> [[Present Continuous]];
+- fact, routine, permanent situation -> [[Present Simple]].
 
 ## Recovery Priority After Chat Cleanup
 
