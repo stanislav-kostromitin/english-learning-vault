@@ -1,6 +1,6 @@
 ---
 type: grammar
-stage: automation
+stage: production
 status: reviewing
 tags:
   - flashcards/grammar

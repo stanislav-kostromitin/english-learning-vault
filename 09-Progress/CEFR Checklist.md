@@ -2,7 +2,7 @@
 type: progress-overview
 current_level: "A2 -> B1 (в процессе)"
 target_path: "A2 -> B1 -> B2 -> C1"
-updated: ""
+updated: "not yet reviewed"
 ---
 
 # CEFR Can-Do чек-лист

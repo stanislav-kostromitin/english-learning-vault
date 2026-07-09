@@ -1,7 +1,7 @@
 ---
 type: grammar
 stage: learn
-status: reviewing
+status: active
 tags:
   - flashcards/grammar
 ---

@@ -66,7 +66,7 @@ No topic should be marked as completed after theory only.
 
 | Topic | Status | Confidence | Stage | Notes |
 |---|---:|---:|---|---|
-| Past Simple | 🟩 | 95% | Automation | Good understanding. Needs automatic usage in stories and work reports. |
+| Past Simple | 🟩 | 90% | Production | Reverted from Automation during 2026-07-09 audit — same reason as Present Simple: no demonstrated pressure-tested use was on record, per CLAUDE.md §4 policy. Solid understanding, needs automatic usage in stories/work reports before Automation is re-earned. |
 | Present Simple | 🟨 | 90%* | Learn | Reverted from Automation during 2026-07-09 audit — no demonstrated pressure-tested use was on record, per CLAUDE.md §4 policy. Confidence % needs reassessment against the Learn stage. |
 | Present Continuous | 🟩 | 90% | Consolidating | Understood: now, temporary situations, arrangements. Needs occasional review with state verbs. |
 | Present Simple vs Present Continuous | 🟩 | 90% | Production | Important contrast: fact/routine vs current temporary action. |
