@@ -34,7 +34,7 @@ Five stages, in order: Learn → Recall → Consolidating → Production → Aut
 | Present Simple vs Present Continuous | 🟩 | 90% | Production | Important contrast: fact/routine vs current temporary action. |
 | Present Perfect | 🟩 | 85% | Consolidating | Good understanding of result, experience, recent completed actions. |
 | Present Perfect vs Past Simple | 🟩 | 85% | Production | Understood conceptually. Needs faster automatic choice in speaking. |
-| Present Perfect Continuous | 🟨 | 75–85% | Production | Main active topic. Needs deeper practice with completed time blocks, duration, and activity focus. |
+| Present Perfect Continuous | 🟩 | 85% | Production | Lesson 07 completed 2026-07-13. Stand-up practice: tense choice correct, `have been investigating` appeared naturally. Remaining issue: -ing form sometimes dropped after `have been`. |
 | Present Perfect vs Present Perfect Continuous | 🟨 | 70% | Learn → Production | Next priority. Need to feel result vs activity/duration. |
 | Comparative Adjectives | 🟩 | 80% | Recall | Covered. Needs light review only. |
 | Quantifiers | 🟩 | 80% | Recall | Covered: much/many/a lot of/few/little etc. Needs periodic review. |
@@ -73,7 +73,7 @@ Current learning focus:
 
 ## Next Lessons
 
-1. Lesson 07 — Present Perfect Continuous final consolidation.
+1. ~~Lesson 07 — Present Perfect Continuous final consolidation.~~ ✅ 2026-07-13
 2. Lesson 08 — Present Perfect vs Present Perfect Continuous.
 3. Lesson 09 — State verbs: know, understand, believe, like, see, think, have.
 4. Lesson 10 — Articles for QA communication.

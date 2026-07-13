@@ -65,10 +65,13 @@ write → wrote → written
 | yeasterday | yesterday |
 | deploued | deployed |
 | couse | cause |
-| feather | feature |
+| feather / future / acceptation | feature / acceptance |
 | meting | meeting |
 | sentens | sentence |
 | firs | first |
+| reqvariemens | requirements |
+| steals mode | stealth mode |
+| preped | preparing (use -ing after start/continue) |
 
 ## Preposition Mistakes
 
@@ -99,3 +102,43 @@ write → wrote → written
 ❌ Present Perfect Continuous always means the action is not finished.
 
 ✅ Present Perfect Continuous emphasizes the activity or duration. The action may still be happening or may have just finished.
+
+---
+
+### 5. Missing -ing after have been (2026-07-13, active)
+
+❌ I have been investigate a bug.
+
+✅ I have been investigating a bug.
+
+Reason: `have/has been` must be followed by `verb-ing`, not base form.
+
+---
+
+### 6. waiting to [do] vs waiting for [something from someone] (2026-07-13, active)
+
+❌ I'm waiting to improve the test plan from management.
+
+✅ I'm waiting for feedback on the test plan from management.
+
+Reason: `waiting to` = you will do the action yourself. `waiting for` = you expect something from someone else.
+
+---
+
+### 7. reason of → reason for (2026-07-13, active)
+
+❌ We found reason of this issue.
+
+✅ We found the reason for this issue.
+
+Reason: fixed preposition — `reason for`, not `reason of`. Also needs article `the`.
+
+---
+
+### 8. on this week / on today → this week / for today (2026-07-13, active)
+
+❌ on this week, on today, on the next week
+
+✅ this week, for today, for next week
+
+Reason: time expressions with week/day don't use `on`. Plans use `for`.
